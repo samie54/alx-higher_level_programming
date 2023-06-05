@@ -1,17 +1,5 @@
 #include "lists.h"
 
-/*********************************************************
- * Project: 0x00-python-hello_world
- *
- *
- * Date: 05/06/2023
- *
- *
- * Author: Samuel Atiemo
- *
- *
- **********************************************************/
-
 /**
  * check_cycle - linked list containing cycle is checked.
  * @list: linked list checkedd
