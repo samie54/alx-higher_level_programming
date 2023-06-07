@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-def print_numbers(start, end):
-  for i in range(start, end + 1):
-    print("{:0>2d}".format(i), end=", ")
-
-if __name__ == "__main__":
-  print_numbers(0, 100)
+for i in range(0, 100):
+    if i == 99:
+        print(i)
+    else:
+        print("{:0>2d}".format(i), end=", ")
