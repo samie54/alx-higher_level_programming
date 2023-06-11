@@ -2,6 +2,18 @@
 #include <stdlib.h>
 #include "lists.h"
 
+/*********************************************************
+ * Project: 0x01. Python - if/else, loops, functions
+ *
+ *
+ * Date: 06/06/2023
+ *
+ *
+ * Author: Samuel Atiemo
+ *
+ *
+ **********************************************************/
+
 /**
  * print_listint - prints all elements of a listint_t list
  * @h: pointer to head of list
