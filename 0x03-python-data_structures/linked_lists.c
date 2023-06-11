@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /*********************************************************
- * Project: 0x01. Python - if/else, loops, functions
+ * Project: 0x03. Python - Data Structures: Lists, Tuples
  *
  *
  * Date: 06/06/2023
