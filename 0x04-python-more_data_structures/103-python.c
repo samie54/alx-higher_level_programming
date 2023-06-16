@@ -1,5 +1,5 @@
+#include <python.h>
 #include <stdio.h>
-#include <Python.h>
 
 
 /**
