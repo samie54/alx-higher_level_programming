@@ -213,4 +213,3 @@ To make the GUI available outside your vagrant machine, add this line in your Va
 No constraints for color, shape etc… be creative!
 
 
-
