@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""lists 10 most recentt commits on a givenn GitHub reposiitory
+"""lists 10 most recentt commits on a givenn GitHub reposiitory.
 """
 import requests
 from sys import argv
