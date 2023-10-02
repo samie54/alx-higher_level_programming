@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 Python script: accepts in a letter; sends POST request to http://0.0.0.0:5000/search_user.
-
 """
 import requests
 from sys import argv
