@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Python script: accepts in a URL; sends a request to the URL and displays the value
+"""Python script: accepts in a URL; sends a request to the URL and displays the value.
 
 """
 import sys
