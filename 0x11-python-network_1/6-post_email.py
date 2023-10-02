@@ -3,12 +3,10 @@
 Python script: accepts in a URL; sends a request to the URL and displays the value.
 
 """
-import sys
-import urllib.request
+import requests
+from sys import argv
 
-if __name__ == "__main__":
-    url = sys.argv[1]
-
-    request = urllib.request.Request(url)
-    with urllib.request.urlopen(request) as response:
-        print(dict(response.headers).get("X-Request-Id"))
+if __name__ == '__main__':
+    payload = {'email': argv[2]}
+    r = requests.post(argv[1], data=payload)
+    print(r.text)
