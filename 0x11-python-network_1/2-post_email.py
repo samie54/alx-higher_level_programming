@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Python script to accept in a URL; sends a POST request to the passed URL
+"""Python script to accept in a URL; sends a POST request to the passed URL.
 
 """
 import sys
