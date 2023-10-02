@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Python script to accept in a URL; sends a request to the URL and shows the value.
+"""
+Python script to accept in a URL; sends a request to the URL and shows the value.
 
 """
 import sys
