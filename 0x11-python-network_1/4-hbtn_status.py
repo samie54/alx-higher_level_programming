@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""To fetch https://intranet.hbtn.io/status."""
+"""To fetch https://intranet.hbtn.io/status.
+"""
 import requests
 
 
